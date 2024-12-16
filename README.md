@@ -1,50 +1,22 @@
-<header>
- Laravel
-Laravel — это фреймворк для веб-приложений с выразительным и элегантным синтаксисом. Мы считаем, что разработка должна быть приятным и творческим процессом, чтобы приносить удовлетворение. Laravel упрощает разработку, облегчая выполнение распространённых задач, используемых во многих веб-проектах, таких как:
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-Простой и быстрый механизм маршрутизации.
-Мощный контейнер для внедрения зависимостей.
-Множество серверных систем для хранения данных сеанса и кэша.
-Выразительный, интуитивно понятный ORM базы данных.
-Не зависящие от базы данных миграции схемы.
-Надежная обработка фоновых заданий.
-Трансляция событий в режиме реального времени.
-Laravel — это доступный, мощный и предоставляющий инструменты, необходимые для крупных и надёжных приложений.
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-Изучение Laravel
-У Laravel самая обширная и подробная документация и библиотека видеоуроков среди всех современных фреймворков для веб-приложений, что значительно упрощает начало работы с фреймворком.
+## About Laravel
 
-Вы также можете попробовать Laravel Bootcamp, где вас научат создавать современное приложение Laravel с нуля.
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-Если вам не хочется читать, Laracasts может вам помочь. Laracasts содержит тысячи видеоуроков по различным темам, включая Laravel, современный PHP, модульное тестирование и JavaScript. Развивайте свои навыки, просматривая нашу обширную видеотеку.
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Спонсоры Laravel
-Мы хотели бы выразить благодарность следующим спонсорам за финансирование разработки Laravel. Если вы хотите стать спонсором, пожалуйста, ознакомьтесь с программой Laravel Partners.
-
-Премиальные Партнеры
-Вехикл
-Затяните Co.
-Веб - изобретение
-Девелоперская Группа Kirschbaum Development Group
-64 Робота
-Куротек
-Кибер-Утка
-Команда разработчиков
-Прыжок 24
-Редберри
-Активная Логика
-бите5
-OP.GG
-Способствующий
-Благодарим вас за то, что вы решили внести свой вклад в разработку фреймворка Laravel! Руководство по внесению вклада можно найти в документации Laravel.
-
-Кодекс поведения
-Чтобы сообщество Laravel было гостеприимным для всех, пожалуйста, ознакомьтесь с Кодексом поведения и соблюдайте его.
-
-Уязвимости в системе безопасности
-Если вы обнаружите уязвимость в системе безопасности Laravel, пожалуйста, отправьте электронное письмо Тейлору Отвеллу по адресу taylor@laravel.com. Все уязвимости в системе безопасности будут оперативно устранены.
-
-Лицензия
-Платформа Laravel Framework - это программное обеспечение с открытым исходным кодом, лицензированное по лицензии MIT.
-
-
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
